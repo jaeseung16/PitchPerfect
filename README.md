@@ -1,7 +1,9 @@
 # PitchPerfect
 
-Project: Pitch Perfect
+Part of the [iOS Nanodegree](https://github.com/jaeseung16/NMRCalculator) Program @ Udacity
 
-iOS Developer Nanodegree Program
+---
 
-https://www.udacity.com/course/ios-developer-nanodegree--nd003
+## Description
+
+The app records your voice and then play it with a selected effect.
